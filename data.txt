@@ -1,0 +1,15 @@
+
+Data ETH/USDT jan2024
+
+1. Raw data: 
+link: https://www.bybit.com/derivatives/en/history-data 
+* OHLC data: Bybit history index price kline data 
+* Orderbook data: Bybit history orderBook data
+* Trade data: Bybit public trading history data 
+
+
+2. Cleaned data: 
+link: https://www.kaggle.com/datasets/uynphm/ethusdt-data-for-seminar
+* OHLC data: openhighclose-ethusdt-jan2024
+* Orderbook data: orderbook-ethusdt-jan2024 
+* Trade data: trade-ethusdt-jan2024
